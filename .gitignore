@@ -1,0 +1,11 @@
+node_modules/
+dist/
+config.json
+.env
+trades.csv
+open-trade.json
+journal-pending.jsonl
+notion-pending.json
+logs/
+ui-state.json
+window-state.json
